@@ -20,3 +20,8 @@ VRPDi offers a new perspective on delivery time optimization compared to traditi
 - More flexible coordination between vehicles and drones
 - Improved overall delivery efficiency
 
+### Structure:
+- BT.cpp: Backtracking algorithm
+- ACS_DT2.cpp: Ant Colony System with K-means Clustering
+- ACS_DT2_LS.cpp: Ant Colony System with K-means Clustering with 2-opt Local Search improvements
+
